@@ -1,4 +1,4 @@
-Cadastro de Funcionários
+**Cadastro de Funcionários**
 
 Este projeto tem como objetivo criar um cadastro de funcionários de uma empresa hipotética e calcular o salário com base nas informações fornecidas.
 Como executar o projeto
