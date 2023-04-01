@@ -1,4 +1,4 @@
-**Cadastro de Funcionários**
+# **Cadastro de Funcionários**
 
 Este projeto tem como objetivo criar um cadastro de funcionários de uma empresa hipotética e calcular o salário com base nas informações fornecidas.
 Como executar o projeto
@@ -13,7 +13,7 @@ Para executar o projeto, é necessário ter o Java instalado em seu computador e
 
     Insira as informações do funcionário quando solicitado e o salário será calculado.
 
-Funcionalidades
+##  **Funcionalidades**
 
 O projeto permite:
 
@@ -21,7 +21,7 @@ O projeto permite:
     Identificação de funcionários terceirizados;
     Cálculo do salário com base nas horas trabalhadas e no valor da hora de trabalho do funcionário.
 
-Contribuindo
+## **Contribuindo**
 
 Contribuições são sempre bem-vindas! Se você deseja contribuir para este projeto, por favor, siga as instruções abaixo:
 
@@ -35,9 +35,5 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir para este pro
 
     Crie um novo Pull Request.
 
-Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
-Autor
-
-Este projeto foi criado por Gustavo Morais e pode ser encontrado em https://github.com/Gsttv.
+**Este projeto foi criado por Gustavo Morais e pode ser encontrado em https://github.com/Gsttv.**
